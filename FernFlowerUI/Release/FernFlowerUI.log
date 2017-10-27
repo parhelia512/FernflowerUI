@@ -1,2 +1,8 @@
 ﻿  FernFlowerUI.cpp
-LINK : fatal error LNK1104: 无法打开文件“D:\syk2015\C++\FernFlowerUI\Release\FernFlowerUI.exe”
+FernFlowerUI.cpp(400): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  6 of 184 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FernFlowerUI.vcxproj -> D:\syk2015\C++\FernFlowerUI\Release\FernFlowerUI.exe
